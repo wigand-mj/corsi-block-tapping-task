@@ -1,0 +1,7 @@
+You will be presented with a number of black rectangles.
+Some of those rectangles will then light up green.
+Please try to press the black rectangles
+that lit up in the right order after an auditive
+signal has been presented.
+
+Please try to do this as fast as possible.

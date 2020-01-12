@@ -1,0 +1,2 @@
+Your highest pattern number was: {a}
+You have a Visuo-Spatial WMC of: {b}

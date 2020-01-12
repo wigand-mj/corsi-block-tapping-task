@@ -1,0 +1,4 @@
+@echo off
+cd SRCnDATA
+python corsi_src_36.py
+pause

@@ -1,0 +1,4 @@
+@echo off
+cd SRCnDATA
+c:\Python27\python corsi_src_27.py
+pause
